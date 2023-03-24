@@ -1,0 +1,12 @@
+.position {
+    position:fixed;
+    top: 140px;
+    left: 120px;
+}
+
+.background {
+    background-image: url(../../public/img/background.jpg);
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
